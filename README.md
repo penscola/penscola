@@ -10,11 +10,14 @@ I am Felix Kiprotich a very passionate Machine learning engineer, Data Analyst, 
 Just type penscola on telegram or :mailbox: mail me at penscolashackletonfelix@gmail.com.
 
 ### Where to find me ?
-:smile: ...just here, DM me ! or by emal: penscolashackletonfelix@gmail.com
+:smile: 
+# Contact 
+* [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
+* [Twitter](https://twitter.com/penscolaf)
+* [Email](mailto:penscolashackletonfelix@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penscola&layout=compact)](https://github.com/penscola/github-readme-stats)
 
-## QUESTION AND ANSWER WEBSITE 
+### QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
 * [GitHub](https://github.com/)
 * [Quora](https://quora.com/)
@@ -24,6 +27,9 @@ Just type penscola on telegram or :mailbox: mail me at penscolashackletonfelix@g
 * [Programmers heaven](https://programmersheaven.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penscola&show_icons=true&theme=radical)
+
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/penscola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
 <!---
 penscola/penscola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
