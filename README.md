@@ -31,11 +31,11 @@ I am Felix Kiprotich a very passionate Machine learning engineer, Data Analyst, 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   
-![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api/top-langs?username=penscola&show_icons=true&locale=en&layout=compact")
-
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=penscola&")
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penscola&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=penscola&show_icons=true&locale=en&layout=compact" alt="Felix" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penscola&show_icons=true&locale=en" alt="Felix" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=penscola&" alt="Felix" /></p>
 
 ### QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
