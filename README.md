@@ -5,13 +5,13 @@
 <p align="left"> <a href="https://twitter.com/PenscolaF" target="blank"><img src="https://img.shields.io/twitter/follow/PenscolaF?logo=twitter&style=for-the-badge" alt="Felix" /></a> </p>
 
 # Hi There 👋  
-I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate about Machine learning also interested in problem solving, computer vision and mostly Natural Language Processing languages.
+I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate about Machine learning also interested in problem solving, computer vision and mostly coding.
 
 - 🔭 I’m currently working on **ALX projects & Azubi Africa projects**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, C++, SQL, JavaScript, PHP, HTML, CSS, C*
+- 💬 Ask me about **Python, C++, SQL, JavaScript, PHP, HTML, CSS, C**
 
 - 📫 How to reach me **penscolashackletonfelix@gmail.com**
 
@@ -42,9 +42,9 @@ I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate ab
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=penscola&show_icons=true&locale=en&layout=compact" alt="Felix" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penscola&show_icons=true&locale=en" alt="Felix" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=penscola&" alt="Felix" /></p>
 
 ### QUESTION AND ANSWER WEBSITE 
