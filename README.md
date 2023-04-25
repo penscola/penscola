@@ -5,7 +5,17 @@
 <p align="left"> <a href="https://twitter.com/PenscolaF" target="blank"><img src="https://img.shields.io/twitter/follow/PenscolaF?logo=twitter&style=for-the-badge" alt="Felix" /></a> </p>
 
 # Hi There 👋  
-I am Felix Kiprotich a very passionate Machine learning engineer, Data Analyst, and python developer smile. I am particularly interested in problem solving, computer vision and mostly Natural Language Processing languages. I am also passionate about learning and sharing my knowledge with others.
+I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate about Machine learning also interested in problem solving, computer vision and mostly Natural Language Processing languages.
+
+- 🔭 I’m currently working on **ALX projects & Azubi Africa projects**
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me about **Python, C++, SQL, JavaScript, PHP, HTML, CSS, C*
+
+- 📫 How to reach me **penscolashackletonfelix@gmail.com**
+
+- ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
 
 ### Learning
 :dancers: I’m open to collaboration on data science projects / research :seedling: I’m currently learning Machine learning.
