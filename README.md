@@ -10,11 +10,6 @@ I am Felix Kiprotich a very passionate Machine learning engineer, Data Analyst, 
 ### Learning
 :dancers: I’m open to collaboration on data science projects / research :seedling: I’m currently learning Machine learning.
 
-### How to reach me?
-Just type penscola on telegram or :mailbox: mail me at penscolashackletonfelix@gmail.com.
-
-### Where to find me ?
-:smile: 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/PenscolaF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Felix" height="30" width="40" /></a>
@@ -38,9 +33,9 @@ Just type penscola on telegram or :mailbox: mail me at penscolashackletonfelix@g
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=penscola&show_icons=true&locale=en&layout=compact" alt="Felix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penscola&show_icons=true&locale=en" alt="Felix" /></p>
+![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api?username=penscola&show_icons=true&locale=en")
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=penscola&" alt="Felix" /></p>
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=penscola&")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=penscola&show_icons=true&theme=radical)
 
