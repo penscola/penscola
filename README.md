@@ -1,5 +1,5 @@
 <a href="https://github.com/penscola">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Felix+Kiprotich;Researcher+%7C+Bachelor+Student+%7C+Full+Stack+Developer;Data+Analyst+%7C+Machine+Learning+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Felix+Kiprotich;Researcher+%7C+Bachelor+Student+%7C+Full+Stack+Developer;Data+Analyst+%7C+Machine+Learning+%7C" alt="Typing SVG" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penscola&label=Profile%20views&color=0e75b6&style=flat" alt="penscola" /> </p>
