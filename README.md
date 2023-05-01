@@ -21,7 +21,10 @@
     <img src="https://img.shields.io/twitter/follow/PenscolaF?logo=twitter&style=for-the-badge" alt="Felix" />
 </a> 
 <br/> 
+    
 </p>
+
+
 # Hi There 👋  
 I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate about Machine learning also interested in problem solving, computer vision and mostly coding.
 
@@ -51,7 +54,7 @@ I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate ab
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   
-
+<br/> <br/> <br/>
 <details>
 <summary>📈 Stats</summary>
 <br>
@@ -64,6 +67,7 @@ My Github Stats
 
 </details>
 
+<br/> <br/> <br/> 
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/penscola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
