@@ -2,10 +2,7 @@
 <a href="https://github.com/penscola">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Felix+Kiprotich;Researcher+%7C+Bachelor+Student+%7C+Full+Stack+Developer;Data+Analyst+%7C+Machine+Learning+%7C" alt="Typing SVG" />
 </a>
-    <br/>
-
-<a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/Website-https://my-porfolio-five-psi.vercel.app/-red?style=flat-square">
+<br/>
 </a>  
 <a href="https://my-porfolio-five-psi.vercel.app/resume">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
@@ -19,14 +16,11 @@
 <a href='https://scholar.google.com/citations?user=HM6-NlgAAAAJ&hl=en' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
-<a href="https://github.com/penscola">
-    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=penscola&label=Profile%20views&color=0e75b6&style=flat" alt="penscola" /> </p>
-
-<p align="left"> <a href="https://twitter.com/PenscolaF" target="blank"><img src="https://img.shields.io/twitter/follow/PenscolaF?logo=twitter&style=for-the-badge" alt="Felix" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=penscola&label=Profile%20views&color=0e75b6&style=flat" alt="penscola"
+<a href="https://twitter.com/PenscolaF" target="blank">
+    <img src="https://img.shields.io/twitter/follow/PenscolaF?logo=twitter&style=for-the-badge" alt="Felix" />
+</a> 
+<br/> 
 
 # Hi There 👋  
 I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate about Machine learning also interested in problem solving, computer vision and mostly coding.
