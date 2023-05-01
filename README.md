@@ -16,7 +16,7 @@
 <a href='https://scholar.google.com/citations?user=HM6-NlgAAAAJ&hl=en' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
-<img src="https://komarev.com/ghpvc/?username=penscola&label=Profile%20views&color=0e75b6&style=flat" alt="penscola"
+<a><img src="https://komarev.com/ghpvc/?username=penscola&label=Profile%20views&color=0e75b6&style=flat" alt="penscola"</a>
 <a href="https://twitter.com/PenscolaF" target="blank">
     <img src="https://img.shields.io/twitter/follow/PenscolaF?logo=twitter&style=for-the-badge" alt="Felix" />
 </a> 
@@ -35,14 +35,6 @@ I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate ab
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug**
 
-### Learning
-:dancers: I’m open to collaboration on data science projects / research :seedling: I’m currently learning Machine learning.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/PenscolaF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Felix" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felix-kiprotich-a2ba1a1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Felix" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -59,20 +51,24 @@ I am Felix Kiprotich a Full Stack Developer and a Data Analyst. Am passionate ab
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=penscola&show_icons=true&locale=en&layout=compact" alt="Felix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penscola&show_icons=true&locale=en" alt="Felix" /></p>
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=penscola&" alt="Felix" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=penscola&theme=dracula) 
 
-### QUESTION AND ANSWER WEBSITE 
-* [Stackoverflow](https://Stackoverflow.com/)
-* [GitHub](https://github.com/)
-* [Quora](https://quora.com/)
-* [Reddit](https://reddit.com/)
-* [Stack exchange](https://Stackexchange.com/)
-* [Code project](https://codeproject.com/)
-* [Programmers heaven](https://programmersheaven.com/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=penscola&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=penscola&theme=dracula)
+
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+
+</details>
 
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/penscola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
