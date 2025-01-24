@@ -4,7 +4,7 @@
 </a>
 <br/>
 </a>  
-<a href="https://my-porfolio-five-psi.vercel.app/resume">
+<a href="https://drive.google.com/file/d/1sjl9GlK_Ni3lCOzIcd5DtmUqyb3bcs5t/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/felix-kiprotich-a2ba1a1a4/">
